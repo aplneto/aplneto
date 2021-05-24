@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there
+I'm not General Kenobi though.
+
+Hi, my name is Antonio and I'm an aspiring security reserach from Brazil.
+
+Follow me on Twitter if you'd like to read some security jokes and insults to Brazilian Government.
+
+- 📫 How to reach me: [Twitter](https://twitter.com/_aplneto)
 
 <!--
 **aplneto/aplneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
