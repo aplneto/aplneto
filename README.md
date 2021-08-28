@@ -1,7 +1,7 @@
 ### Hello there
 <!-- I'm not General Kenobi though. -->
 
-Hi, my name is Antonio and I'm an aspiring security reserach from Brazil.
+Hi, my name is Antonio, also known as 'Super Choque' and I'm an aspiring security reserach from Brazil.
 
 Follow me on Twitter if you'd like to read some security jokes and insults to the Brazilian Government.
 
