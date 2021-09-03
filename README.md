@@ -5,7 +5,7 @@ Hi, my name is Antonio, also known as 'Super Choque' and I'm an aspiring securit
 
 Follow me on Twitter if you'd like to read some security jokes and insults to the Brazilian Government.
 
-- 🌱 I'm currently learning machine learning and blue teaming
+- 🌱 I'm currently studying about machine learning and blue teaming
 - 💬 Ask me about anything and I promise I'll try to help
 - 📫 How to reach me: [Twitter](https://twitter.com/_aplneto)
 <!--
