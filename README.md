@@ -1,13 +1,13 @@
-### Hello there
+### ![obi-wan.gif](https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
 <!-- I'm not General Kenobi though. -->
 
-Hi, my name is Antonio, also known as 'Super Choque' and I'm an aspiring security reserach from Brazil.
+Hi, my name is Antonio, aka 'Super Choque', and I'm an aspiring security reserach and data engineer from Brazil.
 
-Follow me on Twitter if you'd like to read some security jokes and insults to the Brazilian Government.
-
-- 🌱 I'm currently studying about machine learning and blue teaming
+- 🔭 I'm currently working on my bachelor's degree
+- 🌱 I’m currently learning reinforcement learning
 - 💬 Ask me about anything and I promise I'll try to help
 - 📫 How to reach me: [Twitter](https://twitter.com/_aplneto)
+- 👯 I’m looking to collaborate on AI projects
 <!--
 **aplneto/aplneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
