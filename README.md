@@ -1,5 +1,6 @@
-### ![obi-wan.gif](https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
+### Antonio's space
 <!-- I'm not General Kenobi though. -->
+<img align="right" width="400" src="https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" />
 
 Hi, my name is Antonio, aka 'Super Choque', and I'm an aspiring security reserach and data engineer from Brazil.
 
