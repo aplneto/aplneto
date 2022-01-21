@@ -18,8 +18,9 @@ class Student:
     return "Cyber Security"
     
 ```
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/apln2.png)](https://tryhackme.com/p/apln2)
+
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1da1f2&logo=Twitter&label=&logoColor=FFFFFF)](https://twitter.com/_aplneto)
-[![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&label=&logoColor=FFFFFF)](https://tryhackme.com/p/apln2)
 
 ## Platforms
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=3DDC84&logo=Android&logoColor=FFFFFF&label=)
