@@ -2,22 +2,7 @@
 
 <a href="https://www.youtube.com/watch?v=WMsUv_EgsWY" target="_blank"><img align="right" width="400" src="https://c.tenor.com/Bl1eewa5-lcAAAAC/lana-del-rey-hi.gif" /></a>
 
-```python
-class Student:
-  def __init__(self):
-    self.name = "Antônio"
-    self.country = "Brazil"
-    self.languages = ["PT-BR", "EN", "ES"]
-  
-  def education(self):
-    university = "Universidade Federal de Pernambuco",
-    degree = "Bachelor's"
-  
-  @property
-  def work(self):
-    return "Cyber Security"
-    
-```
+
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/apln2.png)](https://tryhackme.com/p/apln2)
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1da1f2&logo=Twitter&label=&logoColor=FFFFFF)](https://twitter.com/_aplneto)
