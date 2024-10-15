@@ -17,3 +17,4 @@ Hi! My name is Antônio and I'm a cybersecurity analyst from Brazil.
 - 🚩 CTF enthusiast
 - 🤖 AI messing arounder
 - 🎮 Game developer
+- 🛡️ Security analyst
