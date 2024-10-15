@@ -12,7 +12,8 @@
 
 Hi! My name is Antônio and I'm a cybersecurity analyst from Brazil.
 
+- 🎵 Lana Del Rey enjoyer
 - 🪲 Malware researcher
 - 🚩 CTF enthusiast
+- 🤖 AI messing arounder
 - 🎮 Game developer
-- 🎵 Lana Del Rey enjoyer
